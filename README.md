@@ -1,6 +1,9 @@
-### Hola, Soy Enrique Palomares Hurtado👋
+### Hi, I’m Enrique Palomares Hurtado 👋  
+I recently completed the **QA Engineer – Web** bootcamp at TripleTen.  
+In addition, I am a **Software Development Engineer in Test (SDET)** with **7 years of experience** in embedded systems projects, including **2 years in the aerospace sector** and **5 years in the automotive industry**.  
 
-Recientemente completé mi curso de QA Engineer - Web en el botcamp de Tripleten (https://www.notion.so/Mi-portafolio-2b631ec83ab580c8a4bcfc76af9f4a4d?source=copy_link). Aparte de eso, soy Software Development Engineer in Test con 7 años de experiencia en proyectos embebidos; trabajé 2 años en el sector aerospacial y 5 en el automotriz, y ahorita estoy buscando trabajo como QA Engineer - Web - Intermedia o Jr. QA Engineer.
+I am currently seeking opportunities as a **Junior or Mid-level QA Engineer – Web**, where I can apply my testing, automation, and quality assurance skills.
+
 
 **🎯 QA Focus Areas**:
 - Web Application Testing (Functional & Non-Functional)
