@@ -104,7 +104,6 @@ I am currently seeking opportunities as a **Junior or Mid-level QA Engineer – 
 
 
 ** 💻 Command Line & Logs **
-** Command Line Usage (Cygwin64)**
 
 ![Static Badge](https://img.shields.io/badge/Command%20Line%20Usage%20(Cygwin64)-374151?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/File%20%26%20Directory%20Management-1F2937?style=flat-square)
