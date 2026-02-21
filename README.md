@@ -63,6 +63,8 @@ I am currently seeking opportunities as a **Junior or Mid-level QA Engineer – 
 ![Static Badge](https://img.shields.io/badge/Test%20Suite%20Structuring-374151?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Intentionally%20Failing%20Test%20Cases-991B1B?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Assertions%20%26%20Test%20Result%20Validation-065F46?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Playwright-Automation-45ba63?style=flat-square&logo=playwright&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 
 
 ** 🌐 Web & UI Testing **
